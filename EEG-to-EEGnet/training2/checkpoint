@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/ubuntu/EEGnet/training/mean"
+all_model_checkpoint_paths: "/home/ubuntu/EEGnet/training/mean"

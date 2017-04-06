@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/ubuntu/EEG-to-IMGnet/training/train"
+all_model_checkpoint_paths: "/home/ubuntu/EEG-to-IMGnet/training/train"
